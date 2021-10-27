@@ -14,7 +14,3 @@ Traffic_Sign_Detection_project
 ## Challenging
 
 ## How to improve detection?
-
-
-
-# Project is completed. I will add about the project very soon
